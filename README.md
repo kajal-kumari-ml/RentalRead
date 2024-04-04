@@ -4,11 +4,11 @@ Develop a RESTful API service using Spring Boot to manage an online book rental 
 # Spring Security 
 This project demonstrates a simple authentication and authorization system using Spring Security in a Spring Boot application.
 
-# Running the Project
+### Running the Project
 To run the project, you can use the Gradle Wrapper provided in the repository. Follow these steps:
 
 
-# Open a terminal.
+### Open a terminal.
 
 
 Navigate to the root directory of the project where the build.gradle file is located.
