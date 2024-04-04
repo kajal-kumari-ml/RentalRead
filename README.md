@@ -50,9 +50,9 @@ password: User's password.
 role: User's role. Default role is USER if not specified.
 
 
-#Response Objects
+### Response Objects
 
-AuthResponse
+### AuthResponse
 
 
 message: Success message.
