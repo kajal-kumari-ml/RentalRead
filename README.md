@@ -57,4 +57,6 @@ role: User's role. Default role is USER if not specified.
 
 message: Success message.
 
+### Postman
 
+🔗 https://winter-flare-851632.postman.co/workspace/kajal~ed0bd169-879d-4182-a30e-8d7e212ef617/collection/15511430-a03d7840-52d8-49a4-832f-0a2eea6e5232?action=share&creator=15511430
